@@ -1,5 +1,5 @@
 # TVBOX Project
-This project is to allow the Kodi IPTV to auto refresh the list without having to update the m3u file.
+This project is to allow the Kodi_IPTV to auto refresh the list without having to update the m3u file.
 I have an android TV box and my in-law had been requesting me to change the TV channel list. In-order to simplify the administration, I decide to host this on github.
 
 Note of what this list of IPTV contain:
