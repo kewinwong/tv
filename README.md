@@ -1,8 +1,9 @@
 # TVBOX Project
 This project is to allow the Kodi_IPTV to auto refresh the list without having to update the m3u file.
-I have an android TV box and my in-law had been requesting me to change the TV channel list. In-order to simplify the administration, I decide to host this on github.
+I have an android TV box and my parent-in-law had been requesting me to change the TV channel list. By the way, my in-laws are from Shanghai hence their list may be different from others.
+In-order to simplify the administration, I decide to host this file on github.
 
-Note of what this list of IPTV contain:
+Note of what this channel list contain:
 
 1. 东方卫视
 2. 东方财经
