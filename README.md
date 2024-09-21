@@ -25,3 +25,5 @@ Note of what this list of IPTV contain:
 19. CCTV17 农业农村
 20. 东方影视
 
+Copy and paste this link below to the network path when setting up kodi_iptv
+https://raw.githubusercontent.com/kewinwong/iptv/refs/heads/main/cctv.m3u
