@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="General",东方卫视
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000005866/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000005866
 #EXTINF:-1 tvg-id="DragonTV Finance" tvg-logo="https://pic.nximg.cn/pic/20200401/26753533_234811274943_4.jpg" group-title="Business",东方财经
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
+https://ldncctvcpudkshw.v.kcdnvip.com/ldncctvcpud/udrmldcctv13_1/index.m3u8?contentid=2820180516001&b=200-2100
 #EXTINF:-1 tvg-id="News" tvg-logo="https://i.imgur.com/YIuQ4el.jpeg" group-title="News,",新闻综合
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031110/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031110
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV1 综合
