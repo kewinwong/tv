@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="General",东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000005866/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000005866
+#EXTINF:-1 tvg-id="DragonTV Finance" tvg-logo="https://pic.nximg.cn/pic/20200401/26753533_234811274943_4.jpg" group-title="Business",东方财经
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
+#EXTINF:-1 tvg-id="News" tvg-logo="https://i.imgur.com/YIuQ4el.jpeg" group-title="News,",新闻综合
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031110/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031110
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV1 综合
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",CCTV2 财经
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",CCTV3 综艺
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="Business",CCTV4 中文国际
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV5 体育
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 tvg-id="CCTV5Plus" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV5+ 体育赛事
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV6 电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV7 国防军事
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV8 电视剧
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary",CCTV9 纪录
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV10 科教
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV11 戏曲
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031106/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031106
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV12 社会与法
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV13 新闻
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV15 音乐
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031109
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV16 奥林匹克
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Culture",CCTV17 农业农村
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
+#EXTINF:-1 tvg-id="DragonTV" tvg-logo="https://i.imgur.com/cZ89q6O.png" group-title="Lifestyle,",东方影视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
+#EXTINF:-1 tvg-id="News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg" group-title="Sports,",五星体育
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
