@@ -13,7 +13,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="Business",CCTV4 中文国际
 #KODIPROP:inputstream=inputstream.adaptive
-ttps://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv4_1_480P/playlist.m3u8?wsApp=HLS
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv4_1_480P/playlist.m3u8?wsApp=HLS
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV5 体育
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
 #EXTINF:-1 tvg-id="CCTV5Plus" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV5+ 体育赛事
