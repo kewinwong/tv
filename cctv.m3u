@@ -42,5 +42,4 @@ http://dd.ddzb.fun/php/migu.php?id=cctv17
 #EXTINF:-1 tvg-id="DragonTV" tvg-logo="https://i.imgur.com/cZ89q6O.png" group-title="Lifestyle,",东方影视
 http://dd.ddzb.fun/php/migu.php?id=dfys
 #EXTINF:-1 tvg-id="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg" group-title="Sports,",五星体育
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
