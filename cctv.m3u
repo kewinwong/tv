@@ -40,6 +40,6 @@ http://dd.ddzb.fun/php/migu.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Culture",CCTV17 农业农村
 http://dd.ddzb.fun/php/migu.php?id=cctv17
 #EXTINF:-1 tvg-id="DragonTV" tvg-logo="https://i.imgur.com/cZ89q6O.png" group-title="Lifestyle,",东方影视
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
+http://dd.ddzb.fun/php/migu.php?id=dfys
 #EXTINF:-1 tvg-id="News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg" group-title="Sports,",五星体育
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
