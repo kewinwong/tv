@@ -18,7 +18,7 @@ http://dd.ddzb.fun/php/migu.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5Plus" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV5+ 体育赛事
 http://dd.ddzb.fun/php/migu.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV6 电影
-http://dd.ddzb.fun/php/migu.php?id=cctv6
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV7 国防军事
 http://dd.ddzb.fun/php/migu.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV8 电视剧
@@ -36,7 +36,7 @@ http://dd.ddzb.fun/php/migu.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV15 音乐
 http://dd.ddzb.fun/php/migu.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV16 奥林匹克
-http://dd.ddzb.fun/php/migu.php?id=cctv16
+https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Culture",CCTV17 农业农村
 http://dd.ddzb.fun/php/migu.php?id=cctv17
 #EXTINF:-1 tvg-id="DragonTV" tvg-logo="https://i.imgur.com/cZ89q6O.png" group-title="Lifestyle",东方影视
