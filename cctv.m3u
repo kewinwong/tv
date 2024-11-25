@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="General",东方卫视
 http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8
 #EXTINF:-1 tvg-id="DragonTV Finance" tvg-logo="https://pic.nximg.cn/pic/20200401/26753533_234811274943_4.jpg" group-title="Business",东方财经
-plugin://plugin.video.youtube/?play=twhG7_jvA8g
+http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-CAIJING-HQ/G_DONGFANG-CAIJING-HQ.m3u8
 #EXTINF:-1 tvg-id="News" tvg-logo="https://i.imgur.com/YIuQ4el.jpeg" group-title="News,",新闻综合
 https://api.livednow.org/migu/651632657?sign=gAAAAABnJcJq37wV8HVm7KEZFWnnYZkQUEODG5vdm7IDdbftN_lPqTa7UFvcOUMZAUZMxbj_pqfV9Wqs0QesizLAlM5lm6KE09NV_R1NlWLz64dtw4a2E898ZITJ3Bnpm0doweq_jYVBvHMglvBll2wlTcIgVVXehIUfj6dExG0H9KXwswEkrhKwV6QfZIzWFshncUJwYzjm4RhTuJ_sEEQULUSUOMdQCA%3D%3D
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV1 综合
