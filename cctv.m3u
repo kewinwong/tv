@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="General",东方卫视
-http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8
+https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
 #EXTINF:-1 tvg-id="DragonTV Finance" tvg-logo="https://pic.nximg.cn/pic/20200401/26753533_234811274943_4.jpg" group-title="Business",东方财经
 http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-CAIJING-HQ/G_DONGFANG-CAIJING-HQ.m3u8
 #EXTINF:-1 tvg-id="News" tvg-logo="https://i.imgur.com/YIuQ4el.jpeg" group-title="News,",新闻综合
@@ -36,9 +36,9 @@ http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV15 音乐
 http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV16 奥林匹克
-http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
+https://api.livednow.org/migu/617289997?sign=gAAAAABnJcJqQwPbtkXR0EduHeJNS7Praw2jALICwPtVhDMC5xK6muuZOoLpbovoW69EFsrxTaExrNVMZEA25x60dF_L6kpoaXSELwdqPRTixZpcui0WHswAmzQUEguKVCZk-XWMw5i1ww20u6b5k1Pm9zyLDGhpXXirdhr0O1I3kJPtPXOMY5vr-lqdvwC4ITbkgujskT2hCslBoUn7RC8ToxLRf90Yyw%3D%3D
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Culture",CCTV17 农业农村
-http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
+https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
 #EXTINF:-1 tvg-id="DragonTV" tvg-logo="https://i.imgur.com/cZ89q6O.png" group-title="Lifestyle",东方影视
 http://dd.ddzb.fun/php/migu.php?id=dfys
 #EXTINF:-1 tvg-id="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg" group-title="Sports",五星体育
