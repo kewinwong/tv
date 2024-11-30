@@ -6,25 +6,25 @@ http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-CAIJING-HQ/G_DONGFANG-CA
 #EXTINF:-1 tvg-id="News" tvg-logo="https://i.imgur.com/YIuQ4el.jpeg" group-title="News,",新闻综合
 http://dd.ddzb.fun/php/migu.php?id=shxwzh
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV1 综合
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-1-CQ
+https://stream1.freetv.fun/cctv12807201-4.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",CCTV2 财经
 http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-2-CQ
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",CCTV3 综艺
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-3-CQ
+https://stream1.freetv.fun/cctv12807203-1.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="Business",CCTV4 中文国际
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-4-CQ
+https://stream1.freetv.fun/cctv12807204-2.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV5 体育
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-5-CQ
+https://stream1.freetv.fun/cctv12807205-1.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV5+ 体育赛事
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-5PLUS-CQ
+https://stream1.freetv.fun/cctv12807205-plus-1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV6 电影
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-6-CQ
+https://stream1.freetv.fun/cctv12807206-1.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV7 国防军事
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-7-CQ
+https://stream1.freetv.fun/cctv12807207-2.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV8 电视剧
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-8-CQ
+https://stream1.freetv.fun/cctv12807208-1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary",CCTV9 纪录
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-9-CQ
+https://stream1.freetv.fun/cctv12807209-2.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV10 科教
 http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-10-CQ
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV11 戏曲
@@ -34,7 +34,7 @@ http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-12-CQ
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV13 新闻
 http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-13-CQ
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV15 音乐
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-15-CQ
+https://stream1.freetv.fun/cctv15-yin-le-14.ctv
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV16 奥林匹克
 http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-16-CQ
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Culture",CCTV17 农业农村
