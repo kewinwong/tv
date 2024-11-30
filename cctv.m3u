@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="General",东方卫视
-http://cqshushu.us.kg:2086/gitv.php?id=G_GUANGDONG-CQ
+http://cqshushu.us.kg:2086/gitv.php?id=G_DONGFANG-CQ
 #EXTINF:-1 tvg-id="DragonTV Finance" tvg-logo="https://pic.nximg.cn/pic/20200401/26753533_234811274943_4.jpg" group-title="Business",东方财经
 http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-CAIJING-HQ/G_DONGFANG-CAIJING-HQ.m3u8
 #EXTINF:-1 tvg-id="News" tvg-logo="https://i.imgur.com/YIuQ4el.jpeg" group-title="News,",新闻综合
