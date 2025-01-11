@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="General",东方卫视
-http://cqshushu.us.kg:2086/gitv.php?id=G_DONGFANG-CQ
+http://39.134.136.161:6610/000000001000/2000000002000000001/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000001
 #EXTINF:-1 tvg-id="DragonTV Finance" tvg-logo="https://pic.nximg.cn/pic/20200401/26753533_234811274943_4.jpg" group-title="Business",东方财经
 http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-CAIJING-HQ/G_DONGFANG-CAIJING-HQ.m3u8
 #EXTINF:-1 tvg-id="News" tvg-logo="https://i.imgur.com/YIuQ4el.jpeg" group-title="News,",新闻综合
@@ -26,20 +26,20 @@ https://stream1.freetv.fun/cctv12807208-1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary",CCTV9 纪录
 https://stream1.freetv.fun/cctv12807209-2.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV10 科教
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-10-CQ
+http://z.b.bkpcp.top/m.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV11 戏曲
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-11-CQ
+http://z.b.bkpcp.top/m.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV12 社会与法
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-12-CQ
+http://z.b.bkpcp.top/m.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV13 新闻
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-13-CQ
+http://z.b.bkpcp.top/m.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV15 音乐
-https://stream1.freetv.fun/cctv15-yin-le-14.ctv
+http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV16 奥林匹克
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-16-CQ
+http://z.b.bkpcp.top/m.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Culture",CCTV17 农业农村
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-17-CQ
+http://z.b.bkpcp.top/m.php?id=cctv17
 #EXTINF:-1 tvg-id="DragonTV" tvg-logo="https://i.imgur.com/cZ89q6O.png" group-title="Lifestyle",东方影视
-https://api.livednow.org/migu/617290047?sign=gAAAAABnJcJqlqz4SRGRy-0QLRhBFIdFTXdLLQdH0p6tckXUs74yY2CWxgWUdtsZFJHkOPYpxwIEAL7XaTYJokRVqggqXVRxCVWF-FobjAc3orPpiX_8bTppoNcktk7k_bGxMeaCONBImD4MYTNG4KGQZDGclrgJei3K95f8s3Q-131kpxK8kMxVGXl-2TTG84EzL6YA-QqrZ8yRDPueQF7N-1mpfhBnKA%3D%3D
+http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000013
 #EXTINF:-1 tvg-id="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg" group-title="Sports",五星体育
-https://api.livednow.org/migu/788816794?sign=gAAAAABnJcJqv4lv8Jl2J3xxsbtVmKy7yk-0C_Y_rxpApfeq2z9YorsVyt8vsdeRO_L6cV5e9XBKsDfyQmSVfsh_buJy2ycd_hdyxmPXKp5uM8UJHTmEZL4ROAiWaSQte9BM40VzF8yDrQNPub0YrDF5N1mTHtSnZqGDjweph9KVSVOF-XImZXyXA-Z7Ky0OcF_lqJq_Lc1clNDB6sKCQRa4bUgHCGmwOA%3D%3D
+http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000007
